@@ -1,4 +1,4 @@
-# Supermarket-Sales-Analysis
+# Supermarket Sales Analysis
 ## Project Summary
 This dashboard gives insights into the sales performance of a supermarket. The dashboard covers various metrics highlighting the sales performance with respect to the profit by product, location, etc. It also gives insight into the returned orders and changes in the number in comparison to the previous year. The data dictates that it drops by 2.95% in comparison to the previous year. Moreover, highlights the increase in sales and profit.
 ## Data Preparation and Modelling
